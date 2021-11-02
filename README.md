@@ -3,7 +3,7 @@
 Different assigments where the goal was to implement AI algorithms to solve problems within the Fishing Derby video game environment.
 
 <p align="center">
-  <p ![image](https://user-images.githubusercontent.com/89993862/139958616-d376513b-d0c3-4121-93e8-087e3ed51c64.png)>
+  <img src="https://kth.kattis.com/problems/kth.ai.search/file/statement/en/img-0001.png" width="600" />
 </p>
 
 # Search
