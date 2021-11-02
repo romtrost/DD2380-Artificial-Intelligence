@@ -16,4 +16,4 @@ Hidden Markov Models have been implemented that can recognise which fish belongs
 
 # RL
 
-Reinforcement learning (Q-Learning) is used to make the player (diver) swim to the king fish while avoiding the jellyfish.
+A reinforcement learning algorithm (Q-Learning) has been implemented to make the player (diver) swim to the king fish while avoiding the jellyfish.
