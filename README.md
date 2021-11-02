@@ -9,3 +9,11 @@ Different assigments where the goal was to implement AI algorithms to solve prob
 # Search
 
 A minimax algorithm with alpha-beta pruning and iterative deepening has been implemented to enable player 0 (green boat) to beat player 1 (red boat) in various game settings.
+
+# HMM
+
+Hidden Markov Models have been implemented that can recognise which fish belongs to which species.
+
+# RL
+
+Reinforcement learning (Q-Learning) is used to make the player (diver) swim to the king fish while avoiding the jellyfish.
